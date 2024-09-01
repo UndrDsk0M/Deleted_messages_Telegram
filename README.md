@@ -4,6 +4,7 @@
 
 کار ربات فوروارد هر پیامی که در پیوی شما ارسال میشود در یک گروه مشخص بدون تاخیر 
 مزیت :
+
 +‌ خوندن محتوا بدون سین کردن چت  
 + نگه داشتن اطلاعاتی که پس از ارسال به شما بلافاصله حذف شده اند
 ### a simple Code to Save all private messages without seen even if deleted after sending 
